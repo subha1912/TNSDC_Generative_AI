@@ -1,6 +1,8 @@
-OVERVIEW
+#OVERVIEW
+
 Autism Spectrum Disorder (ASD) is a neurodevelopmental condition characterized by social communication difficulties and repetitive behaviors. Machine learning algorithms offer promising avenues for enhancing ASD diagnosis and understanding its underlying patterns through analysis of behavioral and clinical data.
-PROJECT COMPONENTS:
+
+#PROJECT COMPONENTS:
 
 1. Data Collection: Gathering relevant data, including behavioral observations, clinical assessments, and demographic information, from individuals diagnosed with ASD and typically developing individuals.
 
@@ -15,9 +17,11 @@ PROJECT COMPONENTS:
 6. Model Tuning: Fine-tuning the model hyperparameters and adjusting the feature set to improve performance further, based on evaluation results and domain expertise.
 
 7. Validation: Validating the trained model on independent datasets or through clinical validation studies to assess real-world applicability and generalizability.
-DATASET:
+   
+#DATASET:
 The project utilizes the Kaggle  dataset, a widely used benchmark dataset for autism disorder classification tasks. The dataset consists of 704 instances along with 21 unique constraints of autism disorder adult.
-LIBRARIES
+
+#LIBRARIES
 Pandas – This library helps to load the data frame in a 2D array format and has multiple functions to perform analysis tasks in one go.
 Numpy – Numpy arrays are very fast and can perform large computations in a very short time.
 Matplotlib/Seaborn – This library is used to draw visualizations.
